@@ -1,0 +1,39 @@
+header {
+    background: linear-gradient(135deg, #1e1e1e, #444);
+    color: white;
+}
+
+nav {
+    background-color: #222;
+}
+
+nav a {
+    color: #f0f0f0;
+}
+
+article {
+    background-color: white;
+    border-left: 6px solid #ff6f61;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+}
+
+article:hover {
+    border-left-color: #ff6f61;
+}
+
+input[type="submit"]:hover {
+    background-color: #ff6f61;
+    transform: scale(1.03);
+}
+
+body {
+    background: grey;
+}
+
+article {
+    background-color: #AEA7A3;
+}

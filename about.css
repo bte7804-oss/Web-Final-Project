@@ -1,0 +1,38 @@
+header {
+    background: linear-gradient(135deg, #6a85b6, #bac8e0);
+    color: white;
+}
+
+nav {
+    background-color: #6a85b6;
+}
+
+nav a {
+    color: white;
+}
+
+article {
+    background-color: #ffffff;
+    border-left: 6px solid #6a85b6;
+}
+
+footer {
+    background-color: #6a85b6;
+    color: white;
+}
+
+article:hover {
+    border-left-color: #ffffff;
+}
+
+article {
+    background-color: rgba(255,255,255,0.95);
+}
+
+body {
+    background: #DCDCDC;
+}
+
+article {
+    background-color: #CCCCFF;
+}

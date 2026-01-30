@@ -1,0 +1,55 @@
+header {
+    background: linear-gradient(135deg, #56ab2f, #a8e063);
+    color: white;
+}
+
+nav {
+    background-color: #56ab2f;
+}
+
+nav a {
+    color: white;
+}
+
+article {
+    background-color: #ffffff;
+    border-left: 6px solid #56ab2f;
+}
+
+input[type="submit"] {
+    background-color: #56ab2f;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #3d8b22;
+}
+
+footer {
+    background-color: #56ab2f;
+    color: white;
+}
+
+input[type="submit"]:active {
+    transform: scale(0.97);
+}
+
+input, textarea {
+    border: 2px solid transparent;
+}
+
+input:focus, textarea:focus {
+    border-color: #56ab2f;
+}
+
+body {
+    background: #8A9A5B;
+}
+
+article {
+    background-color: #9DC183;
+}
+
+
